@@ -1,8 +1,7 @@
 # portfolio-3
 Personal Portfolio
 
-
-![image](https://user-images.githubusercontent.com/82379566/215253022-e0bd556c-bfaa-43a3-8553-92cff1759441.png)
+![image](https://user-images.githubusercontent.com/82379566/215253121-16db4e2d-9808-4032-a947-c95fba9ff792.png)
 
 
 
